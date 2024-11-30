@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base theme for light and dark mode -->
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight">
+        <!-- Define primary, secondary, and background colors -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+    </style>
+</resources>
